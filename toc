@@ -1,0 +1,111 @@
+{:navgroup: .navgroup}
+{:topicgroup: .topicgroup}
+
+{: .toc subcollection="dialog" audience="service" href="/docs/services/dialog/index.html"}
+Dialog
+
+    {: .navgroup id="learn"}
+    index.md
+
+    {: .topicgroup}
+    Demos
+        [Quick demo](http://dialog-demo.mybluemix.net/)
+
+    {: .topicgroup}
+    Additional resources
+        [Blog](https://developer.ibm.com/watson/blog/)
+        [Webinars](https://www.ibm.com/watson/webinars/)
+        [Watson videos](https://www.youtube.com/user/IBMWatsonSolutions)
+    {: .navgroup-end}
+
+    {: .navgroup id="reference"}
+    {: .topicgroup}
+    Element reference: A - C
+        action.md
+        classifier.md
+        concept.md
+        cond.md
+        constants.md
+        customParams.md
+
+    {: .topicgroup}
+    Element reference: D - E
+        default.md
+        dialog.md
+        dictionaries.md
+        dictionary.md
+        entity.md
+        entities.md
+        entityRules.md
+
+    {: .topicgroup}
+    Element reference: F - G
+        flow.md
+        folder.md
+        function.md
+        getUserInput.md
+        goto.md
+        grammar.md
+
+    {: .topicgroup}
+    Element reference: I - R
+        if.md
+        input.md
+        item.md
+        output.md
+        prompt.md
+        random.md
+
+    {: .topicgroup}
+    Element reference: S
+        search.md
+        setting.md
+        settings.md
+        specialSetting.md
+        specialSettings.md
+        src.md
+        stopwords.md
+        stopwordSet.md
+
+    {: .topicgroup}
+    Element reference: T - V
+        tgt.md
+        translation.md
+        translations.md
+        translationSet.md
+        value.md
+        var.md
+        var_folder.md
+        variables.md
+        variations.md
+
+    [API reference](https://www.ibm.com/watson/developercloud/dialog/api)
+
+    {: .topicgroup}
+    Watson SDKs
+        [Android SDK](https://github.com/watson-developer-cloud/android-sdk)
+        [Apple iOS SDK](https://github.com/watson-developer-cloud/ios-sdk)
+        [Java SDK](https://github.com/watson-developer-cloud/java-sdk)
+        [Node.js SDK](https://github.com/watson-developer-cloud/node-sdk)
+        [Python SDK](https://github.com/watson-developer-cloud/python-sdk)
+        [Unity SDK](https://github.com/watson-developer-cloud/unity-sdk)
+
+    [Watson GitHub repos](https://github.com/watson-developer-cloud/)
+    {: .navgroup-end}
+
+    {: .navgroup id="howto"}
+    tutorials.md
+    nodes.md
+    dnr.md
+    nlc-integration.md
+    {: .navgroup-end}
+
+    {: .navgroup id="help"}
+    release-notes.md
+
+    {: .topicgroup}
+    Developer community
+        [StackOverflow](http://stackoverflow.com/questions/tagged/watson-dialog)
+        [developerWorks Answers](https://developer.ibm.com/answers/topics/watson-dialog/)
+        [WDC Slack channel](http://wdc-slack-inviter.mybluemix.net/)
+    {: .navgroup-end}
