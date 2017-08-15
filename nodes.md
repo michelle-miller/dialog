@@ -20,7 +20,7 @@ lastupdated: "2017-08-11"
 # Nodes
 {: #layout_nodes}
 
-The following information describes the most commonly used dialog nodes.
+The following information describes the most commonly used dialog nodes. See the **Element reference** pages for detailed information about all elements of the service.
 {: shortdesc}
 
 ## action
