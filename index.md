@@ -2,7 +2,7 @@
 
 copyright:
   years: 2015, 2017
-lastupdated: "2017-08-11"
+lastupdated: "2017-08-15"
 
 ---
 
@@ -16,10 +16,12 @@ lastupdated: "2017-08-11"
 {:java: .ph data-hd-programlang='java'}
 {:python: .ph data-hd-programlang='python'}
 {:swift: .ph data-hd-programlang='swift'}
+{:note: .deprecated}
 
 # About
 
-> **Service update:** *The {{site.data.keyword.dialogfull}} service was retired on September 8, 2016, after which no new instances of the service can be created, though existing instances of the service will continue to function until August 9, 2017. Users of the {{site.data.keyword.dialogshort}} service should migrate their applications to use the {{site.data.keyword.conversationfull}} service. See the documentation for the [Conversation service ![External link icon](../../icons/launch-glyph.svg "External link icon")](../conversation/index.html){: new_window} to learn how to migrate your dialogs to that service.*
+**The {{site.data.keyword.dialogfull}} service is depecated.** *It is no longer pssible to create new instances of the service. Existing service instances will continue to be supported until **August 9, 2017**. Users of the {{site.data.keyword.dialogshort}} service should migrate their applications to use the {{site.data.keyword.conversationfull}} service. See the documentation for the [Conversation service ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://console.stage1.bluemix.net/docs/services/conversation/index.html){: new_window} to learn how to migrate your dialogs to that service.*
+{: deprecated}
 
 The {{site.data.keyword.dialogshort}} service provides a comprehensive, robust, platform for managing conversations between virtual agents and users through an application programming interface (API). These conversations are commonly referred to as **dialogs**.
 {: shortdesc}
