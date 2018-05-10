@@ -80,6 +80,7 @@ Dialog
         variations.md
 
     [API reference](https://www.ibm.com/watson/developercloud/dialog/api)
+    information-security.md
 
     {: .topicgroup}
     Watson SDKs
